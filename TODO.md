@@ -2,17 +2,17 @@
 
 - [ ] Create necessaries apps and models.
     - [x] core app.
-    - [ ] users app.
-        - [ ] users model (from AbstractUser).
+    - [x] users app.
+        - [x] users model (from AbstractUser).
 
-    - [ ] polls & vote app.
-        - [ ] polls model.
-        - [ ] choices model.
-        - [ ] category model.
-        - [ ] vote model.
+    - [x] polls & vote app.
+        - [x] polls model.
+        - [x] choices model.
+        - [x] category model.
+        - [x] vote model.
 
 - [ ] Create page for registration and login.
-    - [ ] registration and login needs email and password.
+    - [x] registration and login needs email and password.
 
 - [ ] Create Poll feature.
     - [ ] Poll needs minimum 2 options/choices.
